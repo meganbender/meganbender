@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @meganbender
+- 👋 Hi, I’m Megan!
 - 👀 I’m interested in software development but possibly game dev or applications of AI
-- 🌱 I’m currently learning a whole host of information and mainly how to just get into the tech world.
-- 💞️ I’m looking to collaborate on anythingggg mainly those related to my interest fields
+- 🌱 I’m currently learning a whole host of information and mainly just how to get into this world of tech!
+- 💞️ I’m looking to collaborate on anythingggg, mainly those related to my interest fields
 - 📫 How to reach me: email meg.bender@outlook.com
 
 <!---
