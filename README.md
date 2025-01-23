@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Megan!
-- 👀 SWE - Web Dev
+- 👀 Aspiring Software Dev
 <!--- 💞️ I’m looking to collaborate on anythingggg, mainly those related to my interest fields>
 
 
