@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Megan!
-- 👀 Aspiring Software Dev
+- 👀 Aspiring Software Dev (front-end web and iOS dev)
 <!--- 💞️ I’m looking to collaborate on anythingggg, mainly those related to my interest fields>
 
 
